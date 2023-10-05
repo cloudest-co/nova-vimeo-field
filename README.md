@@ -2,7 +2,7 @@
 
 ## Installation
 
-`composer require cloudest-co/nova-vimeo-field`
+`composer require cloudest/vimeo`
 
 ## Usage
 ```php
