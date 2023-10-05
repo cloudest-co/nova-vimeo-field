@@ -6,7 +6,7 @@
 
 ## Usage
 ```php
-use Cloudest\Vimeo;
+use Cloudest\Vimeo\Vimeo;
 
 Vimeo::make('Vimeo field name'),
 ```
@@ -16,7 +16,7 @@ The field extends the base Laravel\Nova\Fields\Field, so all the usual methods a
 
 ### With meta
 ```php
-use Cloudest\Vimeo;
+use Cloudest\Vimeo\Vimeo;
 
 Vimeo::make('Vimeo field name')
     ->withMeta([
