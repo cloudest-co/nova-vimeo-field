@@ -1,6 +1,6 @@
 {
     "name": "cloudest/vimeo",
-    "description": "A Laravel Nova field.",
+    "description": "A Laravel Nova 4.0 Vimeo field.",
     "keywords": [
         "laravel",
         "nova"
